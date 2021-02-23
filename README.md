@@ -1,5 +1,5 @@
 
-<h1>This is an old version of this project. <a href="https://github.com/PubNubDevelopers/Realtime-Unity-High-Score-Leaderboard">Find the updated project here.</a><h1>
+<h1>This is an old version of this project. <a href="https://github.com/PubNubDevelopers/Realtime-Unity-High-Score-Leaderboards">Find the updated project here.</a><h1>
 
 -----
 -----
