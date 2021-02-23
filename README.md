@@ -1,9 +1,15 @@
+
+<h1>This is an old version of this project. <a href="https://github.com/PubNubDevelopers/Realtime-Unity-High-Score-Leaderboard">Find the updated project here.</a><h1>
+
+-----
+-----
+-----
+
 <h1>Full Tutorial Here</h1>
 https://www.pubnub.com/blog/realtime-highscores-leaderboards-in-unity/
 <br>
 <br>
 
-[Click here to Try Demo](https://jordanschuetz.github.io/Realtime-Unity-Leaderboards-with-PubNub/webgldemo/index.html)
 <h2>Setting Up Unity</h2>
 To start out, checkout my <a href="https://github.com/JordanSchuetz/Realtime-Unity-Leaderboards-with-PubNub">GitHub</a> and clone/download the repo.  If you don't already have Unity installed, install it <a href="https://unity3d.com/get-unity/download">here</a>.  The repo contains an Assets folder which contains all of the Project Files.  Open up Unity, and go to <strong>File -&gt; Open Project</strong> and select the folder. It will take some time to load the project in Unity.  When it completes, open up the Assets folder in your <strong>Project</strong> tab, and double-click on the <strong>LeaderBoard</strong> Unity Scene.
 
@@ -30,5 +36,3 @@ Lets add more entries. Lara, James, and Bob just got added to the highscore list
 Now let's add Stephen to the list. As you can see, since his score is higher than Bob's but lower than James, he is placed in the 5th spot.  All players that are connected to the game will see this score update in realtime.  This logic is all done in the PubNub Function using the KV Store and array sorting.  Click the try our demo button below to checkout how it works.
 
 <a href="https://www.pubnub.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-29-at-3.04.22-PM.png"><img class="alignnone wp-image-34155 size-large" src="https://www.pubnub.com/wp-content/uploads/2018/05/Screen-Shot-2018-05-29-at-3.04.22-PM-1024x622.png" alt="Scoreboard and Leaderboard in Unity 3D" width="1024" height="622" /></a>
-<p style="text-align: center;"><a href="https://jordanschuetz.github.io/Realtime-Unity-Leaderboards-with-PubNub/webgldemo/index.html"><img class="alignnone size-medium wp-image-33902" src="https://www.pubnub.com/wp-content/uploads/2018/05/button-red2-300x74.png" alt="" width="300" height="74" /></a></p>
-<p style="text-align: center;"><em>Open up two windows to see the high scores updating in real time</em></p>
